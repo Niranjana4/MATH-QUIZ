@@ -1,0 +1,55 @@
+h2{
+    font-size: 40px;
+    font-family:fantasy;
+    background-color: darkblue;
+    color: #d2e9f3;
+    width: 100%;
+    box-shadow: grey 5px 5px 5px 5px;
+}
+
+body
+{
+	background: #d2e9f3;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(0, 195, 255);
+padding: 10px;
+float: none;
+text-align: left;
+border-style: ridge;
+border-radius: 20px;
+}
+
+#player1_name{
+    font-style: italic;
+    color: blue;
+}
+
+#player2_name{
+    font-style: italic;
+    color: blue;
+}
